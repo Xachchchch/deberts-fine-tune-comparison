@@ -22,4 +22,8 @@ You can use any classification dataset compatible with HuggingFace datasets, suc
 ### 1. Clone the repo
 ```bash
 git clone https://github.com/your-username/deberta-lora-finetune.git
-cd deberta-lora-finetune
+cd deberta-lora-finetune```
+```
+### 2.Install dependencies
+```bash
+pip install -r requirements.txt
