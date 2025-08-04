@@ -2,7 +2,7 @@
 
 This project is experimenting with LoRA vs head-only fine-tuning for DeBERTa on sentiment analysis
 
-## 📚 Description
+## Description
 
 We compare two setups:
 - Fine-tuning only the classifier head
@@ -10,14 +10,14 @@ We compare two setups:
 
 The goal is to evaluate the trade-offs in performance and resource usage.
 
-## 🧪 Datasets
+## Datasets
 
 You can use any classification dataset compatible with HuggingFace datasets, such as:
 - SST-2
 - IMDb
 - Your custom dataset (CSV/JSON)
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Clone the repo
 ```bash
