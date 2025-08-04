@@ -17,6 +17,13 @@ You can use any classification dataset compatible with HuggingFace datasets, suc
 - IMDb
 - Your custom dataset (CSV/JSON)
 
+## Training Logs & Results
+
+## Training Logs & Results
+
+All experiments and training metrics are tracked using **Weights & Biases (wandb)**.  
+[Click here to view the W&B project](https://wandb.ai/khachblb06-polytechnic-of-a/deberta-comparison?nw=nwuserkhachblb06)
+
 ## How to Run
 
 ### 1. Clone the repo
